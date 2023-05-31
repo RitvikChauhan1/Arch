@@ -98,7 +98,8 @@
 }
 
 .bg-lilac {
-  background: #AA98A9!important;
+  /* background: #AA98A9!important; */
+  background: #BAB86C!important;
 }
 
 .bg-pastel-green {
@@ -161,7 +162,7 @@
   color: #f8f8f8;
 }
 .text-lilac {
-  color: #a690a5;
+  color: #BAB86C;
 }
 
 .text-olive {
@@ -184,7 +185,8 @@
  */
 :root {
   --arch-dark: #1b1b1b;
-  --arch-bg-lilac:#AA98A9;
+  /* --arch-bg-lilac:#AA98A9; */
+  --arch-bg-lilac:#BAB86C;
   --arch-bg-pastel-green: #C1E1C1;
   --arch-bg-pastel-grey: #CACACA;
   --arch-black: #000000;
@@ -11657,7 +11659,8 @@ label {
 }
 
 .header .mainnav ul.main_menu li.current > a, .header .mainnav ul.main_menu li.active > a, .header .mainnav ul.main_menu li:hover > a {
-  color: #AA98A9;
+  /* color: #AA98A9; */
+  color: #BAB86C;
 }
 
 .header .mainnav ul.main_menu li ul {
